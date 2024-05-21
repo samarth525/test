@@ -18,5 +18,5 @@ Route::get('/', function () {
 });
 
 Route::get('/index', function () {
-    return "hello world";
+    return "hello augurs";
 });
