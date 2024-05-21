@@ -34,6 +34,3 @@ Route::get('/test23', function () {
 Route::get('/test24', function () {
     return "hello test";
 });
-Route::get('/test25', function () {
-    return "hello test";
-});
