@@ -28,3 +28,6 @@ Route::get('/test', function () {
 Route::get('/test2', function () {
     return "hello test";
 });
+Route::get('/test23', function () {
+    return "hello test";
+});
