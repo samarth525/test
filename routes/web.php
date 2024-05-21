@@ -51,7 +51,7 @@ Route::get('/test29', function () {
     return "hello test";
 });
 Route::get('/test30', function () {
-    return "hello test";
+    return "hello testtt";
 });
 Route::get('/test31', function () {
     return "hello test";
