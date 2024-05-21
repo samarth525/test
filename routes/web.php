@@ -56,3 +56,6 @@ Route::get('/test30', function () {
 Route::get('/test31', function () {
     return "hello test";
 });
+Route::get('/test32', function () {
+    return "hello test";
+});
