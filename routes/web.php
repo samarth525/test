@@ -24,3 +24,7 @@ Route::get('/index', function () {
 Route::get('/test', function () {
     return "hello test";
 });
+
+Route::get('/test2', function () {
+    return "hello test";
+});
