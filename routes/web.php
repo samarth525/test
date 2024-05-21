@@ -42,3 +42,7 @@ Route::get('/test26', function () {
 Route::get('/test27', function () {
     return "hello test";
 });
+
+Route::get('/test28', function () {
+    return "hello test";
+});
